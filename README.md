@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pierreklintefors
-- 👀 I’m interested in computational, robotics and AI
+- 👀 I’m interested in computational neuroscience, robotics and AI
 
 <!---
 pierreklintefors/pierreklintefors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
